@@ -1,0 +1,25 @@
+:root {
+  --header-height: 80px;
+  --font-color: whitesmoke;
+  --bg-color: #1e1e1e;
+  --accent-color: #eb660e;
+}
+
+.link {
+  display: block;
+  line-height: var(--header-height);
+  font-size: 1.5em;
+  font-weight: 600;
+  color: var(--font-color);
+}
+
+/* menu click */
+.bar1.change {
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+.bar2.change {
+  opacity: 0;
+}
+.bar3.change {
+  transform: rotate(45deg) translate(-8px, -8px);
+}

@@ -1,0 +1,57 @@
+.bgAni > .bg1 {
+  opacity: 1;
+  transition-delay: 0.1s;
+}
+.bgAni > .bg2 {
+  opacity: 1;
+  transition-delay: 0.15s;
+}
+.bgAni > .bg3 {
+  opacity: 1;
+  transition-delay: 0.2s;
+}
+.bgAni > .bg4 {
+  opacity: 1;
+  transition-delay: 0.25s;
+}
+.bgAni > .bg5 {
+  opacity: 1;
+  transition-delay: 0.3s;
+}
+.bgAni > .bg6 {
+  opacity: 1;
+  transition-delay: 0.35s;
+}
+.bgAni > .bg7 {
+  opacity: 1;
+  transition-delay: 0.4s;
+}
+.bgAni > .bg8 {
+  opacity: 1;
+  transition-delay: 0.45s;
+}
+.bgAni > .bg9 {
+  opacity: 1;
+  transition-delay: 0.5s;
+}
+.bgAni > .bg10 {
+  opacity: 1;
+  transition-delay: 0.55s;
+}
+
+ul > .listAni1 {
+  transform: translate3d(0, 0, 0);
+  transition-delay: 0.3s;
+}
+ul > .listAni2 {
+  transform: translate3d(0, 0, 0);
+  transition-delay: 0.35s;
+}
+ul > .listAni3 {
+  transform: translate3d(0, 0, 0);
+  transition-delay: 0.4s;
+}
+ul > .listAni4 {
+  transform: translate3d(0, 0, 0);
+  transition-delay: 0.45s;
+}
